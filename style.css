@@ -1,0 +1,20 @@
+#container {
+    display: flex;
+    align-items: center;
+}
+
+#container p {
+    margin-left: 1em;
+}
+
+html {
+    background-color: darkseagreen;
+}
+
+img {
+    max-width: 500px;
+}
+
+a {
+    color: purple;
+}
