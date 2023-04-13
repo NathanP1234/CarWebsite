@@ -1,9 +1,9 @@
-#container {
+.container {
     display: flex;
     align-items: center;
 }
 
-#container p {
+.container p {
     margin-left: 1em;
 }
 
