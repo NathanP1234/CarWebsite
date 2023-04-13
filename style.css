@@ -7,8 +7,8 @@
     margin-left: 1em;
 }
 
-html {
-    background-color: darkseagreen;
+body {
+    background-image: url("https://hips.hearstapps.com/autoweek/assets/s3fs-public/Cruz.gif?crop=1xw:0.8875739644970414xh;center,top&resize=640:*");
 }
 
 img {
@@ -20,5 +20,13 @@ a {
 }
 
 #nav {
-    background-color: rgb(226, 64, 0);
+    background-image: url("https://media.tenor.com/lu8NjOZLXHkAAAAM/police-car-scary.gif");
+}
+
+p {
+    color:brown;
+}
+
+button {
+    font-size: 120px;
 }
