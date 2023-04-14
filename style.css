@@ -31,4 +31,6 @@ p {
 
 button {
     font-size: 120px;
+    border-radius: 15px;
+    border-width: 10px;
 }
